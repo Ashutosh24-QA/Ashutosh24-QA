@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashutosh24-QA
+- 👋 Hi, I’m @Ashutosh24
 - 👀 I’m interested in testing the system and API's
 - 🌱 I’m currently learning API testing
 - 💞️ I’m looking to collaborate on work towards QA and devops 
